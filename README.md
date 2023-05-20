@@ -4,7 +4,6 @@ Mitchell Martin
 
 05/20/2023
 
-Mathematical Calculators
 
 ## OBJECTIVE
    The objective of this project is to provide
